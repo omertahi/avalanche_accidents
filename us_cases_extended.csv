@@ -1,0 +1,760 @@
+,Location,State,Time,Summary Description,Primary Activity,Primary Travel Mode,Location Setting,Caught,"Partially Buried, Non-Critical","Partially Buried, Critical",Fully Buried,Injured,Killed,Type,Trigger,Trigger (subcode),Size - Relative to Path,Size - Destructive Force,Sliding Surface,Slope Aspect,Site Elevation,Slope Angle,Slope Characteristic
+0,"Ryan Peak, Idaho",Idaho,"
+Unknown
+",1 skier and 1 snowmobiler killed,Hybrid Rider,Snowmobile,--,0,0,0,0,0,2,--,--,--,--,--,--,--,--,--,--
+1,"Silver Basin, closed portion of Crystal Mountain ski area",Washington,,6 backcountry tourers caught and 1 killed,Backcountry Tourer,Ski,,0,,,3,0,1,SS,AS - Skier,u - An unintentional release,R3,D2.5,--,NE,6600 ft,35 °,--
+2,"Ruth Glacier, Denali National Park and Preserve",Alaska,"
+5:00 AM
+(Estimated)","2 climbers caught in serac fall, 1 killed",Climber,Foot,,2,,,0,1,1,I,N -  Natural,--,--,--,--,--,--,--,--
+3,Matanuska Glacier,Alaska,"
+Unknown
+",1 heliskier killed,Mechanised Guiding Client,Ski,,0,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+4,Lime Creek south of Edwards,Colorado,"
+2:00 PM
+(Estimated)","2 sidecountry skiers caught, 1 buried and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,2,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R1,D2,G - At Ground/Ice/Firm,NW,9763 ft,45 °,Gully/Couloir
+5,"Frog Lake Cliffs, north of Donner Pass",California,"
+Unknown
+",1 snowmobiler caught and killed,Snowmobiler,Foot,,1,,,0,0,1,C,AF - Foot penetration,u - An unintentional release,R3,D2,--,NE,8600 ft,--,--
+6,"Tiger Peak, north of Burke",Idaho,"
+Unknown
+","3 snowmobilers caught, 2 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,3,2,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R3,D3,O - Within Old Snow,W,6200 ft,33 °,--
+7,"Broken Thumb Couloir, Peak 9,975 (25 Short), Grand Teton National Park",Wyoming,,1 backcountry tourer caught and killed,Backcountry Tourer,Snowboard,Backcountry,1,0,1,0,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,S - Within Storm Snow,NE,8800 ft,38 °,--
+8,"Near Sherman Peak, Southeast of Pocatello",Idaho,"
+11:00 AM
+(Estimated)","1 snowmobiler, caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+9,"Near Castle Lake, Ruby Mountains, Southeast of Elko",Nevada,"
+Unknown
+","2 snowmobilers caught, 1 buried and killed, 1 injured",Snowmobiler,Snowmobile,,0,,,1,1,1,--,--,--,--,--,--,--,--,--,--
+10,"Smiley Creek Drainage, Smoky Mountains",Idaho,"
+11:00 AM
+(Estimated)",1 snowmobiler caught and killed,Snowmobiler,Snowmobile,Backcountry,1,0,0,0,0,1,HS,AM - Snowmobile,u - An unintentional release,R3,D2.5,O - Within Old Snow,S,9100 ft,35 °,--
+11,"Togwotee Pass, WY",Wyoming,"
+12:00 PM
+(Estimated)",1 backcountry snowboarder caught and killed,Backcountry Tourer,Snowboard,Backcountry,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,O - Within Old Snow,NE,9440 ft,42 °,Gully/Couloir
+12,"Squaw Creek Drainage, Southeast of Alpine, WY",Wyoming,"
+1:30 PM
+(Estimated)","8 snowmobilers caught, 7 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,8,1,2,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D2,--,NE,8300 ft,37 °,--
+13,"West of Ruby Mountain, southeast of Rand",Colorado,"
+3:00 PM
+(Estimated)","2 snowmobilers caught, 1 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R4,D3,O - Within Old Snow,NE,11400 ft,37 °,"Planar Slope,Sparse Trees"
+14,"Pumphouse Lake, southwest of Rollins Pass",Colorado,"
+Unknown
+","1 snowmobiler caught, partially buried-critical, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,1,0,0,1,HS,AM - Snowmobile,u - An unintentional release,R3,D2,G - At Ground/Ice/Firm,E,11500 ft,35 °,--
+15,"Beehive Basin, north of Big Sky Montana",Montana,"
+11:30 AM
+","2 splitboarders caught, 1 partially buried and killed",Backcountry Tourer,Snowboard,Backcountry,2,1,0,0,0,1,HS,AR - Snowboarder,u - An unintentional release,R4,D2.5,O - Within Old Snow,SW,9200 ft,--,Sparse Trees
+16,"Near Mount Trelease, north of Loveland Pass",Colorado,"
+8:45 AM
+(Estimated)","1 backcountry snowboarder caught, partially-buried critical, killed",Backcountry Tourer,Snowboard,Backcountry,1,0,1,0,0,1,HS,AR - Snowboarder,u - An unintentional release,R4,D3,G - At Ground/Ice/Firm,E,12267 ft,35 °,Planar Slope
+17,"Knox Creek, Salmon la Sac area, near Cle Elum Lake",Washington,"
+11:00 AM
+(Estimated)","2 snowbikers caught, 1 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,HS,AV - Vehicle (specify vehicle type in comments),u - An unintentional release,R3,D3,O - Within Old Snow,NE,4750 ft,30 °,--
+18,"Wilson Glade, Mill Creek Canyon",Utah,"
+11:30 AM
+(Estimated)","7 backcountry tourers caught, 1 partially buried, 2 buried, 4 buried and killed",Backcountry Tourer,Ski,Backcountry,4,0,0,4,0,4,HS,AS - Skier,u - An unintentional release,R4,D2.5,--,N,9600 ft,31 °,--
+19,"Wounded Buck Creek, northwest of Wildcat Lake",Montana,"
+1:00 PM
+(Estimated)","5 snowmobilers caught, 1 partially buried-critical and killed",Snowmobiler,Snowmobile,Backcountry,5,3,1,0,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2.5,O - Within Old Snow,N,6300 ft,35 °,Sparse Trees
+20,"Marvin’s West, East Vail backcountry southeast of Vail",Colorado,"
+11:10 AM
+(Estimated)","2 sidecountry skiers caught, 1 buried and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,2,1,0,1,0,1,SS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,E,11450 ft,38 °,Planar Slope
+21,"Etna Summit, west of Etna",California,"
+2:00 PM
+(Estimated)","2 backcountry tourers caught, 1 partially buried, 1 buried and killed",Backcountry Tourer,Ski,--,2,1,0,1,0,1,HS,AS - Skier,u - An unintentional release,R2,D2,--,NW,6650 ft,39 °,--
+22,"Bear Mountain, Chugach State Park",Alaska,"
+Unknown
+","3 climbers caught, buried, and killed",Climber,Foot,Backcountry,3,0,3,0,0,3,HS,--,--,--,--,--,--,--,--,--
+23,"The Nose, Middle Fork Mineral Creek southeast of Ophir",Colorado,"
+3:20 PM
+(Estimated)","4 backcountry tourers caught, 1 partially buried-critical, 3 buried and killed",Backcountry Tourer,Ski,Backcountry,4,0,1,3,1,3,SS,AS - Skier,u - An unintentional release,R3,D2.5,O - Within Old Snow,NE,12130 ft,40 °,Planar Slope
+24,"Ammonoosuc Ravine, north of Mount Monroe",New Hampshire,,"1 backcountry skier caught, buried, and killed",Backcountry Tourer,Ski,--,1,0,0,1,0,1,--,--,--,--,--,--,--,--,--,--
+25,"Squaretop, Park City Ridgeline",Utah,"
+Unknown
+","1 sidecountry skier caught, buried, and killed",Sidecountry Rider,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R1,D2,O - Within Old Snow,NE,9400 ft,37 °,--
+26,"Dutch Draw, Park City Ridgeline",Utah,"
+Unknown
+","1 sidecountry rider caught, buried, and killed",Sidecountry Rider,Snowboard,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,O - Within Old Snow,E,9800 ft,39 °,--
+27,"First Creek, north of Berthoud Pass",Colorado,"
+3:00 PM
+(Estimated)","1 backcountry skier caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,--,R2,D1.5,G - At Ground/Ice/Firm,N,11050 ft,40 °,"Dense Trees,Gully/Couloir"
+28,"North Face of Battleship, southeast of Ophir",Colorado,"
+Unknown
+","2 backcountry skiers caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,2,0,1,1,0,2,SS,AS - Skier,u - An unintentional release,R2,D2.5,O - Within Old Snow,NW,11155 ft,30 °,Sparse Trees
+29,"Near Ohio Pass, Anthracite Range",Colorado,"
+12:30 PM
+(Estimated)","1 backcountry skier caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,--,R2,D2,O - Within Old Snow,NE,10535 ft,35 °,"Planar Slope,Sparse Trees"
+30,"Near Sheep Pass, Salt River Range",Wyoming,"
+4:00 PM
+(Estimated)","1 snowmobiler caught, buried and killed",Snowmobiler,Snowmobile,Backcountry,1,1,0,0,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D2,O - Within Old Snow,E,9900 ft,35 °,--
+31,"Mount Emmons, west of Crested Butte",Colorado,"
+10:45 AM
+(Estimated)","1 backcountry skier caught, killed",Backcountry Tourer,Ski,Backcountry,1,0,0,0,0,1,WS,AS - Skier,u - An unintentional release,R1,D2,O - Within Old Snow,NE,10300 ft,45 °,"Convex Slope,Sparse Trees,Dense Trees"
+32,"Point 12885 near Red Peak, west of Silverthorne",Colorado,"
+1:00 PM
+","2 backcountry tourers caught and carried, 1 killed",Backcountry Tourer,Ski,Backcountry,2,0,0,0,0,1,SS,AS - Skier,u - An unintentional release,R2,D2,I - New/Old Interface,N,12680 ft,--,Gully/Couloir
+33,"Austin Canyon, Snake River Range",Idaho,"
+2:30 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D2,I - New/Old Interface,SE,9400 ft,38 °,--
+34,"Taylor Mountain, northwest of Teton Pass",Wyoming,"
+2:45 PM
+(Estimated)","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Snowboard,--,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,I - New/Old Interface,S,10100 ft,38 °,--
+35,North of Skyline Peak,Idaho,"
+1:00 PM
+(Estimated)","2 sidecountry riders caught, 1 partially buried, 1 buried and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,NW,8066 ft,40 °,--
+36,Near Hatcher Pass,Alaska,"
+12:30 PM
+(Estimated)","1 backcountry tourer caught, killed",Backcountry Tourer,Snowboard,,0,,,0,0,1,SS,AR - Snowboarder,u - An unintentional release,--,--,O - Within Old Snow,S,2000 ft,36 °,--
+37,Unalaska Island,Alaska,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+38,"South Fork of Dickson Creek, east of Red and White Mountain",Colorado,"
+2:45 PM
+(Estimated)","3 snowbike riders caught, 1 partially buried, 2 buried and killed",Snowmobiler,Snowmobile,Backcountry,3,1,0,2,0,2,HS,AV - Vehicle (specify vehicle type in comments),u - An unintentional release,R3,D2,O - Within Old Snow,NE,9800 ft,37 °,Sparse Trees
+39,"Boulder Creek Drainage, South of Cooper Landing",Alaska,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,HS,AM - Snowmobile,--,--,--,O - Within Old Snow,W,2600 ft,45 °,--
+40,Near Blewett Pass,Washington,,"1 resident caught, buried and killed",Resident,Foot,,0,,,1,0,1,R,N -  Natural,--,--,--,--,--,--,--,--
+41,"Farmington Canyon, east of Farmington",Utah,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D2,O - Within Old Snow,E,8400 ft,38 °,--
+42,"Uncompahgre Gorge, south of Ouray",Colorado,"
+10:45 AM
+(Estimated)","1 climber struck by falling ice, buried, and killed",Climber,Foot,--,1,0,0,1,0,1,I,N -  Natural,--,R1,D1,G - At Ground/Ice/Firm,SE,8800 ft,--,--
+43,"Scott Peak, west of Lake Tahoe",California,"
+12:00 AM
+(Estimated)","2 inbounds skiers caught, 1 injured, 1 killed",Inbounds Rider,Ski,,0,,,0,1,1,--,--,--,--,--,--,--,--,--,--
+44,"Baker Creek drainage, Smoky Mountains",Idaho,"
+2:00 PM
+(Estimated)","2 snowmobilers caught, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2,O - Within Old Snow,S,9130 ft,34 °,--
+45,"Rock Creek, Elkhorn Mountains",Oregon,"
+2:30 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2,O - Within Old Snow,E,7832 ft,35 °,Planar Slope
+46,"Wardner Peak, Bitterroot Mountains",Idaho,"
+11:00 AM
+(Estimated)","Multiple skiers caught, 2 partially buried, 5 buried, 3 killed",Inbounds Rider,Ski,Ski Area - open area,8,2,0,5,1,3,SS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,E,6200 ft,35 °,--
+47,"Near Lake Dinah, west of Seeley Lake",Montana,"
+2:00 PM
+(Estimated)","3 snowmobilers caught, 2 buried and killed, 1 partially buried",Snowmobiler,Snowmobile,Backcountry,3,1,0,2,0,2,SS,AM - Snowmobile,u - An unintentional release,R3,D2.5,O - Within Old Snow,E,6740 ft,35 °,--
+48,"Dutch Draw, Park City Ridgeline",Utah,"
+10:50 AM
+(Estimated)","1 sidecountry rider caught, buried, and killed",Sidecountry Rider,Snowboard,Backcountry,1,0,1,0,0,1,SS,AR - Snowboarder,u - An unintentional release,R1,D2,Unknown,E,9700 ft,40 °,--
+49,"Diamond Peaks, west of Cameron Pass",Colorado,"
+1:15 PM
+(Estimated)","1 backcountry skier, caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,HS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,NE,11420 ft,36 °,"Sparse Trees,Gully/Couloir"
+50,"Lutak Inlet, north of Haines",Alaska,"
+12:30 PM
+","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Snowboard,Backcountry,1,0,0,1,0,1,HS,AS - Skier,u - An unintentional release,R4,D3,O - Within Old Snow,NW,2270 ft,40 °,--
+51,Casper,Wyoming,"
+2:45 PM
+(Estimated)","1 resident caught, buried, and killed",Resident,Foot,Town/Settlement,1,0,0,1,0,1,R,--,--,--,--,--,--,--,--,--
+52,Crested Butte South,Colorado,"
+12:00 AM
+(Estimated)","2 residents caught and buried, 1 killed",Resident,Foot,,0,,,2,0,1,R,AF - Foot penetration,u - An unintentional release,--,--,--,--,--,--,--
+53,"Near Crescent Lake, Kenai Peninsula",Alaska,"
+3:25 PM
+(Estimated)","2 backcountry tourers caught, 1 buried and killed",Backcountry Tourer,Ski,Backcountry,2,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R3,D2.5,O - Within Old Snow,NW,2500 ft,35 °,--
+54,"Point 12118, east of Jones Pass",Colorado,"
+1:53 PM
+","1 mechanized guide caught, buried, and killed; 1 mechanized guide client caught",Mechanised Guide,Ski,Backcountry,2,0,0,1,0,1,HS,N -  Natural,--,R4,D3.5,G - At Ground/Ice/Firm,E,12000 ft,38 °,Planar Slope
+55,"Breccia Cliffs, northwest of Togwotee Pass",Wyoming,"
+2:30 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Backcountry Tourer,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R3,D2.5,O - Within Old Snow,W,9950 ft,38 °,--
+56,"Base Camp above Matterhorn Nordic trailhead, northeast of Lizard Head Pass",Colorado,"
+Unknown
+","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R1,D2,I - New/Old Interface,S,11250 ft,--,Planar Slope
+57,"Truman Gulch, Bridger Range",Montana,,"1 skier caught, partially buried-critical, and killed",Backcountry Tourer,Ski,Backcountry,1,0,1,0,0,1,HS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,W,8400 ft,--,--
+58,"Temptation avalanche path, Bear Creek, south of Telluride",Colorado,"
+10:15 AM
+(Estimated)","1 sidecountry rider caught, 1 backcountry skier caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,O - Within Old Snow,E,11800 ft,35 °,Gully/Couloir
+59,"Pearl Pass Road, Brush Creek Drainage",Colorado,"
+8:49 AM
+(Estimated)","2 backcountry tourers caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,2,0,0,2,0,2,SS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,SE,9350 ft,37 °,Planar Slope
+60,"Humpy Peak, western Uinta Mountains",Utah,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,HS,AM - Snowmobile,u - An unintentional release,--,D3,O - Within Old Snow,W,--,--,--
+61,"Circleville Mountain, Tushar Mountains",Utah,"
+Unknown
+","2 snowmobilers caught, 1 partially buried-critical, 1 buried and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,HS,--,--,--,D2,O - Within Old Snow,E,11000 ft,--,--
+62,"Near Bell Lake, Tobacco Root Mountains",Montana,"
+1:15 PM
+","4 backcountry tourers caught, 1 injured, 1 killed",Backcountry Tourer,Ski,--,4,2,0,0,1,1,SS,AS - Skier,u - An unintentional release,R4,D3,O - Within Old Snow,E,9000 ft,40 °,--
+63,"Upper Palisades Lake, Snake River Range",Idaho,"
+4:15 PM
+(Estimated)","4 snowmobilers caught, 3 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,4,2,1,1,0,1,SS,--,--,--,D2,--,S,9050 ft,--,--
+64,"East Face Laurel Peak, La Sal Mountains",Utah,"
+4:30 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,--,--,O - Within Old Snow,E,12200 ft,35 °,--
+65,"Green Mountain, Express Creek",Colorado,"
+10:15 AM
+(Estimated)","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R3,D2.5,O - Within Old Snow,NE,11150 ft,35 °,"Convex Slope,Ridgeline,Sparse Trees"
+66,"Electric Lake, Manti Skyline",Utah,"
+Unknown
+","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Ski,,0,,,1,0,1,--,AS - Skier,u - An unintentional release,--,--,--,NE,9400 ft,--,--
+67,Taos Ski Valley,New Mexico,"
+11:45 AM
+(Estimated)","2 inbounds riders caught, buried, and killed",Inbounds Rider,Ski,,0,,,2,0,2,--,--,--,--,--,--,--,--,--,--
+68,"Mount Leidy, southwest of Togwotee Pass",Wyoming,"
+3:00 PM
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D2,O - Within Old Snow,E,9500 ft,36 °,--
+69,"Upper Senator Beck Basin, northwest of Red Mountain Pass",Colorado,"
+2:41 PM
+(Estimated)","6 backcountry tourers caught, 1 partially buried, 1 buried and killed",Backcountry Tourer,Ski,Backcountry,6,1,0,1,0,1,HS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,S,13000 ft,32 °,Planar Slope
+70,"South Waldron Creek, north of Teton Peak",Montana,"
+3:42 PM
+","2 snowmobilers caught, 1 carried and injured, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,0,0,1,1,1,HS,AM - Snowmobile,u - An unintentional release,R4,D3,O - Within Old Snow,E,7850 ft,37 °,"Convex Slope,Sparse Trees"
+71,"Horse Creek, Wyoming Range",Wyoming,"
+10:00 AM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,--,R1,D1.5,--,NE,8950 ft,--,--
+72,"Upper Blackstone Glacier, south of Whittier",Alaska,"
+12:00 AM
+","3 snowmobilers caught, 2 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,3,2,0,1,0,1,HS,AM - Snowmobile,r - A remote avalanche released by the indicated trigger,R3,D2.5,S - Within Storm Snow,NE,5000 ft,--,--
+73,"Northwest of East Leidy Mountain, west of Togwotee Pass",Wyoming,"
+3:30 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,WS,AM - Snowmobile,--,R2,D2,--,E,9030 ft,38 °,--
+74,"Saddle Peak, Bridger Range",Montana,"
+11:00 AM
+(Estimated)","1 sidecountry rider caught, partially buried-critical, and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,1,0,1,0,0,1,SS,AS - Skier,u - An unintentional release,R3,D2,I - New/Old Interface,--,9019 ft,--,--
+75,"Northwest of Glacier Peak, Middle Fork Swan River",Colorado,"
+11:00 AM
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R3,D2.5,O - Within Old Snow,N,11830 ft,38 °,Convex Slope
+76,"Maroon Bowl, west of Aspen Highlands",Colorado,"
+2:22 PM
+","2 sidecountry riders caught, 1 killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,2,0,0,0,1,1,SS,AS - Skier,u - An unintentional release,R2,D2,Unknown,N,11375 ft,38 °,"Concave Slope,Sparse Trees"
+77,"Park Butte, south of Mount Baker",Washington,"
+Unknown
+","1 snowmobiler caught, killed",Snowmobiler,Snowmobile,,1,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+78,"Setting Sun Mountain, north of the Methow Valley",Washington,"
+1:15 PM
+(Estimated)","1 backcountry caught, partially buried-critical, and killed",Backcountry Tourer,Ski,Backcountry,1,0,1,0,0,1,HS,AR - Snowboarder,--,R4,D2.5,O - Within Old Snow,NW,6900 ft,35 °,--
+79,Near Kirkwood Ski Resort,California,"
+12:00 AM
+(Estimated)",2 residents killed in roof avalanche,Resident,Ski,,0,,,0,0,2,R,--,--,--,--,--,--,--,--,--
+80,"North Fork Teanaway, north of Cle Elum",Washington,"
+1:30 PM
+(Estimated)","4 snowmobilers caught, 1 injured, 2 killed",Snowmobiler,Snowmobile,,0,,,0,2,2,--,--,--,--,--,--,--,--,--,--
+81,Stampede Pass,Washington,"
+Unknown
+","4 snowmobilers caught, 1 buried and killed, 2 injured",Snowmobiler,Snowmobile,,0,,,2,2,1,--,--,--,--,--,--,--,--,--,--
+82,Snoqualmie Pass,Washington,"
+Unknown
+",2 hikers killed,Hiker,Snowshoe,,0,,,0,0,2,--,--,--,--,--,--,--,--,--,--
+83,"Dude Mountain, north of Ketchikan",Alaska,"
+12:15 PM
+(Estimated)","1 backcountry tourers caught, 1 buried and killed",Backcountry Tourer,Snowboard,,1,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+84,"Sheep Creek, west of Palisades",Idaho,"
+12:00 AM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,HS,AM - Snowmobile,--,R4,D3,--,E,8967 ft,38 °,--
+85,"Ralph's Slide, Upper Rock Springs Canyon near Wilson",Wyoming,"
+12:00 AM
+(Estimated)",1 skier caught and killed,Sidecountry Rider,Ski,,0,,,0,0,1,SS,AS - Skier,u - An unintentional release,--,D2,O - Within Old Snow,S,9927 ft,--,--
+86,"Canyon Creek, Whitefish Range",Montana,"
+Unknown
+","1 sidecountry rider caught, buried, and killed",Sidecountry Rider,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,--,--,--,I - New/Old Interface,NE,5830 ft,39 °,--
+87,"South of Red Mountain Pass, Sam's Trees",Colorado,"
+12:00 AM
+","2 backcountry skiers caught and partially buried, 1 killed",Backcountry Tourer,Ski,Backcountry,2,1,1,0,0,1,SS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,NE,11092 ft,38 °,Convex Slope
+88,"Southeast of Reas Peak, Centennial Range",Idaho,"
+2:00 PM
+(Estimated)","1 snowbiker caught, buried, and killed",Snowmobiler,Snowmobile,--,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D2,--,E,7750 ft,35 °,Gully/Couloir
+89,"Northwest of Reas Peak, Centennial Range",Idaho,"
+Unknown
+",1 snowmobiler killed,Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R1,D2,I - New/Old Interface,SW,8700 ft,36 °,--
+90,"Cabin Creek, southern Madison Range",Montana,"
+4:05 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R4,D2,O - Within Old Snow,SW,8800 ft,38 °,Gully/Couloir
+91,"Commissary Ridge, Salt River Range",Wyoming,"
+1:00 PM
+(Estimated)","3 snowmobilers caught, 2 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,3,2,0,1,0,1,SS,AM - Snowmobile,--,R3,D2.5,O - Within Old Snow,E,9760 ft,37 °,--
+92,"Marmot Mountain, Hatcher Pass",Alaska,"
+2:00 PM
+(Estimated)","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,HS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,SW,3600 ft,34 °,"Convex Slope,Gully/Couloir"
+93,"Imp Peak, southern Madison Range",Montana,"
+Unknown
+","2 backcountry tourers caught, 1 partially buried, 1 buried and killed",Backcountry Tourer,Ski,Backcountry,2,1,0,1,0,1,HS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,N,10008 ft,42 °,--
+94,"Red Mountain, north of Snoqualmie Pass",Washington,"
+Unknown
+","1 backcountry tourer caught, killed.",Backcountry Tourer,Foot,,0,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+95,North Pole,Alaska,"
+1:30 PM
+(Estimated)","1 resident partially buried-critical, later died",Resident,Foot,Town/Settlement,1,0,1,0,0,1,R,N -  Natural,--,--,--,--,--,--,--,--
+96,"Hawkins Mountain, north of Cle Elum",Washington,"
+Unknown
+","2 snowmobilers caught, 1 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,,1,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+97,"Near West Lost Lake, Flat Tops Wilderness area",Colorado,"
+10:05 AM
+(Estimated)","2 snow bike riders caught, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,HS,AV - Vehicle (specify vehicle type in comments),u - An unintentional release,R3,D2,O - Within Old Snow,NE,10460 ft,33 °,Sparse Trees
+98,"McCoy Creek, Caribou Range east of Idaho Falls",Idaho,"
+11:40 AM
+(Estimated)",1 snowmobiler buried and killed,Snowmobiler,Snowmobile,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+99,"Near Cooper Landing, Kenai Peninsula",Alaska,"
+2:00 PM
+(Estimated)","2 snowmobilers caught, 1 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,HS,AM - Snowmobile,r - A remote avalanche released by the indicated trigger,R4,D3,O - Within Old Snow,NW,3000 ft,40 °,--
+100,"Mt. Stanton, north of West Glacier",Montana,"
+2:00 PM
+(Estimated)","1 backcountry tourer caught, partially buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,0,0,1,SS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,SW,7200 ft,35 °,--
+101,"Near Crystal Mountain, south of Greenwater",Washington,,"1 backcountry tourer caught, partially buried, and killed",Backcountry Tourer,Ski,,0,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+102,West of White Pass Ski Area,Washington,,"1 sidecountry rider caught, killed",Sidecountry Rider,Ski,,0,,,0,0,1,--,AS - Skier,--,--,--,--,--,--,--,--
+103,East of Grand Targee Resort,Wyoming,"
+Unknown
+","1 sidecountry rider caught, buried and killed",Sidecountry Rider,Foot,,0,,,1,0,1,C,AF - Foot penetration,--,R2,D2.5,--,N,9747 ft,45 °,"Ridgeline,Cornice"
+104,"Henderson Mountain, near Cooke City",Montana,"
+2:30 PM
+","2 hybrid tourers caught, 1 partially buried, 1 buried and killed",Hybrid Rider,Ski,Backcountry,2,1,0,1,0,1,SS,AS - Skier,u - An unintentional release,R4,D2,O - Within Old Snow,NE,9375 ft,43 °,--
+105,Mt. Rose Chutes - Closed Area,Nevada,"
+10:18 AM
+(Estimated)","1 inbounds rider caught, buried, and killed",Inbounds Rider,Ski,,0,,,1,0,1,SS,AS - Skier,--,--,D3,O - Within Old Snow,N,9200 ft,40 °,--
+106,"Summit Lake area, Eastern Alaska Range",Alaska,"
+7:00 PM
+(Estimated)","1 snowmobiler caught, buried, killed",Snowmobiler,Snowmobile,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+107,"Summit Lake area, Eastern Alaska Range",Alaska,"
+12:00 AM
+(Estimated)","2 snowmobilers caught, 1 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,,2,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+108,Cat Ski Mount Bailey,Oregon,"
+Unknown
+","Mechanised guide caught, killed",Mechanised Guide,Ski,,0,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+109,"Chief Joseph Peak, Wallowa Mountains",Oregon,"
+4:30 PM
+",1 backcountry tourer partially buried-critical and killed,Backcountry Tourer,Ski,Backcountry,1,0,1,0,0,1,C,AS - Skier,u - An unintentional release,--,D2,--,NE,9380 ft,38 °,"Ridgeline,Cornice,Gully/Couloir"
+110,Nelchina Glacier area,Alaska,"
+Unknown
+","1 snowmobiler caught, killed",Snowmobiler,Snowmobile,,0,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+111,Island Park,Idaho,"
+5:21 PM
+(Estimated)","3 residents buried, 1 killed",Resident,Foot,,0,,,3,0,1,R,N -  Natural,--,--,--,--,--,--,--,--
+112,Grand Targhee Resort,Wyoming,"
+Unknown
+",1 sidecountry rider killed in cornice fall,Sidecountry Rider,Ski,,0,,,1,0,1,C,AF - Foot penetration,--,R2,D2,--,E,9736 ft,43 °,"Cornice,Below Cornice,Unsupported Slope"
+113,Big Horn Mountains near Sheridan Wyoming,Wyoming,"
+12:11 PM
+",1 snowmobiler caught and killed,Snowmobiler,Snowmobile,Backcountry,1,0,0,0,0,1,HS,AM - Snowmobile,u - An unintentional release,R2,D1.5,Unknown,E,9502 ft,38 °,--
+114,"Cottonwood Pass, west of Buena Vista",Colorado,"
+11:00 AM
+(Estimated)","1 snow bike rider, caught, partially buried-critical, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,1,0,0,1,SS,AV - Vehicle (specify vehicle type in comments),u - An unintentional release,R2,D2,O - Within Old Snow,E,12200 ft,36 °,Convex Slope
+115,"Lost Mine Creek, east of Wolf Creek Pass",Colorado,"
+4:30 PM
+(Estimated)","2 snowmobilers caught, 1 partially buried, 1 fully buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2,O - Within Old Snow,E,9660 ft,40 °,Convex Slope
+116,Twin Lakes near Brundage Mountain,Idaho,,1 snowmobiler caught and killed,Snowmobiler,Snowmobile,,0,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+117,"Willow Draw near Park City Mountain Resort, Utah",Utah,,"1 sidecountry rider, caught, buried and killed",Backcountry Tourer,Ski,,0,,,1,0,1,--,--,--,--,--,--,--,8600 ft,--,Convex Slope
+118,"Rock Springs drainage, south of Jackson Hole Mountain Resort",Wyoming,"
+2:15 PM
+(Estimated)","3 sidecountry riders caught, 2 buried and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,3,0,0,2,0,2,SS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,SE,9900 ft,--,--
+119,"Mt Herman, northeast of Mount Baker",Washington,"
+1:25 PM
+","2 backcountry tourers caught, 1 injured, 1 killed.",Backcountry Tourer,Foot,Backcountry,2,1,0,0,1,1,WS,N -  Natural,--,R3,D3,G - At Ground/Ice/Firm,NE,4850 ft,60 °,--
+120,"Swede Creek area, Whitefish Range",Montana,"
+1:30 PM
+(Estimated)","2 snowmobilers caught, 1 partially buried not-critical, 1 buried and killed.",Snowmobiler,Snowmobile,--,2,1,0,1,1,1,SS,AM - Snowmobile,u - An unintentional release,R4,D2,O - Within Old Snow,--,--,--,--
+121,"Red Mountain, Clear Creek County",Colorado,,"One snowboarder, caught and killed",Backcountry Tourer,Snowboard,,0,,,0,0,1,U,AU - Unknown artificial trigger,Unknown,--,--,Unknown,S,11000 ft,--,--
+122,"Ruby Peak, Ruby Range west of Crested Butte",Colorado,"
+2:00 PM
+","2 snowmobilers caught, 1 partially buried uninjured, 1 fully buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2,--,SE,11000 ft,35 °,Convex Slope
+123,"Gobblers Knob, Big Cottonwood Canyon",Utah,"
+Unknown
+","2 backcountry tourers caught, 1 partially buried, 1 buried and killed",Backcountry Tourer,Ski,,0,,,1,0,1,SS,AS - Skier,u - An unintentional release,--,--,--,S,10000 ft,--,--
+124,"Cedar Basin, west of Big Sky",Montana,"
+2:49 PM
+",1 backcountry tourer caught and killed,Backcountry Tourer,Ski,Backcountry,1,0,1,0,0,1,SS,AS - Skier,--,R2,D2,O - Within Old Snow,E,9459 ft,40 °,--
+125,"Pyramid Peak, Teton Range",Wyoming,"
+12:30 PM
+(Estimated)","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Snowboard,Backcountry,1,0,1,0,0,1,SS,AR - Snowboarder,u - An unintentional release,R3,D2.5,O - Within Old Snow,SE,9200 ft,--,--
+126,"Skyscraper Mountain, Hatcher Pass",Alaska,"
+Unknown
+",1 backcountry snowboarder fully buried and killed,Backcountry Tourer,Snowboard,,0,,,1,0,1,HS,AR - Snowboarder,--,R2,D2.5,O - Within Old Snow,S,4200 ft,43 °,--
+127,"St Marys Lake, Front Range",Colorado,"
+Unknown
+","1 climber caught, buried, killed.",Climber,Foot,Backcountry,1,0,0,1,0,1,HS,Unknown,Unknown,R3,D2.5,O - Within Old Snow,E,11200 ft,--,Planar Slope
+128,Backcountry near Sugar Bowl Ski Resort,California,,"1 sidecountry rider caught, killed",Sidecountry Rider,Ski,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+129,"Grubstake Gulch, southwest of Hatcher Pass",Alaska,"
+Unknown
+",1 snowmobiler buried and killed,Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R2,D2.5,I - New/Old Interface,W,3500 ft,40 °,--
+130,Granite Mountain near Snoqualmie Pass,Washington,"
+Unknown
+",1 hiker killed,Hiker,Snowshoe,,0,,,0,0,1,--,--,--,--,--,--,--,--,--,--
+131,"Sheep Mountain, north of Cooke City",Montana,"
+1:00 PM
+(Estimated)","3 snowmoiblers caught, 1 fully buried and killed",Snowmobiler,Snowmobile,Backcountry,3,1,1,1,0,1,SS,AM - Snowmobile,--,R2,D2.5,O - Within Old Snow,SE,9600 ft,--,--
+132,Kendall Peak,Washington,,"1 backcountry tourer caught, killed",Backcountry Tourer,Ski,Backcountry,0,0,0,0,0,1,--,--,--,--,--,--,W,5300 ft,--,--
+133,"Eldorado Bowl, Hatcher Pass",Alaska,,"1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,--,--,--,--,--,--,--,--,--,--
+134,"Mt Russell, John Muir Wilderness",California,,"1 hiker caught, buried, and killed",Hiker,Foot,Backcountry,1,0,0,1,0,1,SS,AF - Foot penetration,u - An unintentional release,R2,--,--,NE,13100 ft,40 °,--
+135,"Sickle Couloir, Mount Moran",Wyoming,"
+Unknown
+","4 backcountry tourers caught, 1 injured, 2 killed",Backcountry Tourer,Ski,Backcountry,4,0,0,0,1,2,WL,N -  Natural,--,R1,D1.5,--,NE,11040 ft,45 °,Gully/Couloir
+136,"Beehive Peak, northern Madison Range",Montana,"
+11:58 AM
+","1 backcountry tourer caught, killed",Backcountry Tourer,Ski,Backcountry,1,0,0,0,0,1,SS,AS - Skier,u - An unintentional release,R1,D1,I - New/Old Interface,E,10400 ft,--,Gully/Couloir
+137,"North of Tebay Lakes, Wrangell-St. Elias National Park and Preserve",Alaska,"
+2:30 PM
+(Estimated)",1 backcountry tourer killed in cornice collapse,Backcountry Tourer,Foot,Backcountry,1,0,0,1,0,1,C,AF - Foot penetration,u - An unintentional release,R2,D2,Unknown,W,7200 ft,--,"Ridgeline,Cornice,Unsupported Slope"
+138,"Squaw Creek, near Cantwell",Alaska,"
+1:00 PM
+(Estimated)","1 snowmobiler caught, buried, lated succumbed to injuries",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AF - Foot penetration,u - An unintentional release,--,D2,G - At Ground/Ice/Firm,SE,2300 ft,--,--
+139,"Hell's Canyon, near Snowbasin Ski Resort",Utah,"
+11:00 AM
+","1 sidecountry rider caught, buried, and killed",Sidecountry Rider,Snowboard,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,--,--,O - Within Old Snow,N,8700 ft,40 °,--
+140,West side of Aspen Mountain - Peter Barker run/slide path,Colorado,"
+2:45 PM
+(Estimated)","One  skier caught,  buried, and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,W,9990 ft,38 °,"Sparse Trees,Gully/Couloir"
+141,"Kendall Mountain, Rabbit Ears/Arcade",Colorado,"
+3:50 PM
+","One backcountry skier, caught, carried, partially buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,1,0,0,1,HS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,NW,11300 ft,40 °,"Convex Slope,Gully/Couloir"
+142,Kelso Mountain,Colorado,"
+10:02 AM
+","One climber, traveling on snowshoes, caught, buried, and killed",Climber,Snowshoe,Backcountry,1,0,0,1,0,1,HS,AI - Snowshoer,u - An unintentional release,R2,D2,O - Within Old Snow,E,12200 ft,39 °,--
+143,"Rainbow Ridge area, Delta Range",Alaska,"
+1:30 PM
+","2 backcountry tourers caught, 1 injured,1 killed",Backcountry Tourer,Ski,Backcountry,2,0,2,0,1,1,SS,AS - Skier,u - An unintentional release,R3,D2.5,I - New/Old Interface,NW,5500 ft,38 °,--
+144,"Near Henderson Peak, Cooke City, Montana",Montana,,"One snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,--,R4,D2,O - Within Old Snow,SW,9450 ft,37 °,--
+145,"Liberty Ridge, Mount Rainier",Washington,,"6 climbers caught, buried and killed",Climber,Foot,,0,,,6,0,6,--,--,--,--,--,--,--,12800 ft,--,--
+146,North face of Mount Shuksan,Washington,"
+Unknown
+",1 backcountry tourer (on ascent) caught and killed,Backcountry Tourer,Foot,,0,,,0,0,1,--,--,--,--,--,--,--,7000 ft,--,--
+147,"Olson Gulch, west of Anaconda",Montana,"
+10:00 AM
+(Estimated)","1 backcountry skier caught, died on scene",Backcountry Tourer,Ski,--,1,1,0,0,0,1,WL,AS - Skier,u - An unintentional release,R2,D2,I - New/Old Interface,NE,7890 ft,38 °,Sparse Trees
+148,Crater Lake National Park,Oregon,,1 snowshoer caught in cornice fall,Hiker,Snowshoe,,0,,,0,0,1,C,--,--,--,--,--,--,--,--,--
+149,"Paulina Peak, south of Bend",Oregon,"
+3:00 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2,I - New/Old Interface,N,7200 ft,45 °,--
+150,Granite Mountain,Washington,"
+4:45 PM
+(Estimated)","1 backcountry tourer caught, buried, and killed",Backcountry Tourer,Ski,,0,,,1,0,1,--,AS - Skier,u - An unintentional release,R3,D3,--,S,5200 ft,45 °,--
+151,"Kicking Horse Valley, west of Haines",Alaska,"
+11:02 AM
+","1 heliski guide caught, buried, and died from injuries",Mechanised Guide,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R4,D3,O - Within Old Snow,N,4900 ft,36 °,--
+152,"Cooke City, Montana",Montana,,"1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,0,0,1,U,AM - Snowmobile,r - A remote avalanche released by the indicated trigger,--,--,O - Within Old Snow,--,--,--,--
+153,"Altoona, about 10 miles northeast of Philipsburg, Montana",Montana,"
+3:00 PM
+(Estimated)",1 skier caught and killed,Backcountry Tourer,Ski,,0,,,0,0,1,U,--,--,--,--,--,--,--,--,--
+154,"Gold Hill, Uinta Mountains",Utah,,"1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,0,0,1,--,--,--,--,--,--,N,10200 ft,39 °,--
+155,"Sharkstooth Peak, La Plata Mountains",Colorado,"
+12:50 PM
+","1 snowmobiler fully buried, missing and presumed dead",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D2,O - Within Old Snow,E,11300 ft,--,Planar Slope
+156,"Diablo Ridge, Pt. 12,505, approx. 1 mile W of Conejos Peak",Colorado,"
+12:45 PM
+(Estimated)","1 skier caught, buried, and killed",Ski Patroller,Ski,Backcountry,1,0,0,1,0,1,HS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,NW,11700 ft,--,--
+157,"Mount Jumbo, Missoula",Montana,,"1 snowplayer and 2 residents caught and buried, 1 resident killed",Resident,Foot,Town/Settlement,5,1,0,3,2,1,HS,AR - Snowboarder,u - An unintentional release,R4,D3.5,S - Within Storm Snow,NW,4480 ft,38 °,--
+158,"Troy, West Cabinet Mountain Range",Montana,,"2 snowmobilers caught, 1 partly buried and 1 buried and killed",Snowmobiler,Snowmobile,,2,,,1,0,1,SS,AM - Snowmobile,--,--,--,O - Within Old Snow,--,--,--,--
+159,Near Togwotee Pass,Wyoming,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2,--,SW,9100 ft,38 °,--
+160,"Frenchman Creek, northwest of Galena Summit",Idaho,"
+2:00 PM
+(Estimated)","4 snowmobilers caught and buried, 1 killed",Snowmobiler,Snowmobile,,0,,,4,0,1,--,--,--,--,D3,--,NW,9000 ft,--,--
+161,"Star Mountain, near Twin Lakes",Colorado,,"5 skiers caught, 3 injured, 2 killed",Backcountry Tourer,Ski,Backcountry,5,2,0,3,3,2,HS,AS - Skier,u - An unintentional release,R4,D4,O - Within Old Snow,NE,11606 ft,40 °,Planar Slope
+162,"SW face of Cornucopia Peak, Wallowa Mountains",Oregon,"
+12:00 PM
+(Estimated)","5 backcountry skiers caught, 1 uninjured, 2 injured, 2 killed",Backcountry Tourer,Ski,Backcountry,5,1,1,2,2,2,SS,AS - Skier,u - An unintentional release,R4,D2,S - Within Storm Snow,S,8200 ft,36 °,"Ridgeline,Sparse Trees,Gully/Couloir"
+163,"Near Kebler Pass, west of Crested Butte",Colorado,"
+1:05 PM
+","2 snowmobilers caught, 1 partially buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2.5,S - Within Storm Snow,S,9700 ft,35 °,Planar Slope
+164,"North Fork Swan River, south of Keystone Ski Area",Colorado,"
+11:45 AM
+(Estimated)","2 skiers caught, 1 partially buried, 1 buried and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,2,1,0,1,0,1,HS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,SE,11942 ft,35 °,"Planar Slope,Below Cornice"
+165,Left Fork Huntington Creek,Utah,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,1,,,1,0,1,--,--,--,--,--,--,NE,9600 ft,--,--
+166,Near Tibble Fork Reservoir,Utah,"
+Unknown
+","1 snowshoer caught, buried, and lkilled",Snowplayer,Snowshoe,,1,,,1,0,1,--,--,--,--,--,--,--,6400 ft,--,--
+167,"Lewis Peak, Cascades north of Stevens Pass",Washington,"
+Unknown
+",1 climber killed in cornice fall avalanche,Climber,Foot,Backcountry,1,1,0,0,0,1,C,AF - Foot penetration,u - An unintentional release,R3,D3,--,SE,5600 ft,--,"Ridgeline,Cornice,Unsupported Slope"
+168,"East Vail, backcountry southeast of Vail Ski Area",Colorado,"
+11:15 AM
+","4 riders caught, 1 injured, 1 killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,4,0,2,0,2,1,HS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,E,11600 ft,36 °,Planar Slope
+169,"Onion Basin, northern Gallatin Range",Montana,"
+12:00 AM
+(Estimated)","2 snowmobilers caught, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,SS,AM - Snowmobile,--,R3,D2.5,--,N,9200 ft,38 °,--
+170,"Parkview Mountain, west of Willow Creek Pass",Colorado,"
+1:21 PM
+",One backcountry traveler buried and killed,Backcountry Tourer,Snowboard,Backcountry,1,0,0,1,0,1,HS,AR - Snowboarder,u - An unintentional release,R2,D2.5,O - Within Old Snow,NE,11000 ft,37 °,Convex Slope
+171,"Pucker Face, near Jackson Hole Mountain Resort",Wyoming,"
+12:51 PM
+","One skier caught, buried, and killed.",Sidecountry Rider,Ski,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AS - Skier,--,R3,D3,I - New/Old Interface,E,10300 ft,45 °,--
+172,"Neely's, Palisades Peak",Idaho,,"One snowmobiler, caught, buried and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,--,AM - Snowmobile,--,--,--,--,--,--,--,--
+173,"Sheep Creek, north of Loveland Pass",Colorado,"
+10:15 AM
+(Estimated)","6 backcountry tourers caught, 1 partially buried, 5 buried and killed",Backcountry Tourer,Snowboard,Backcountry,6,1,0,5,0,5,HS,AR - Snowboarder,u - An unintentional release,R3,D3,O - Within Old Snow,N,11800 ft,41 °,"Planar Slope,Gully/Couloir"
+174,"Ptarmigan Hill, near Vail Pass",Colorado,"
+1:00 PM
+",1 snowboarder caught and killed,Hybrid Rider,Snowboard,Backcountry,2,0,0,0,0,1,HS,AR - Snowboarder,u - An unintentional release,R4,D3.5,O - Within Old Snow,N,11850 ft,35 °,Below Cornice
+175,Granite Mountain near Snoqualmie Pass,Washington,"
+Unknown
+","Three climbers caught, two injured, one buried and killed",Climber,Foot,,2,,,1,2,1,--,--,--,--,--,--,--,--,--,--
+176,"Red Mountain, near Snoqualmie Pass",Washington,"
+Unknown
+","One snowshoer buried, died during evacuation",Hiker,Snowshoe,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+177,"Kessler Peak, Big Cottonwood Canyon",Utah,"
+Unknown
+",1 skier caught and killed,Highway Personnel,Ski,Backcountry,1,0,0,0,0,1,SS,AS - Skier,--,R2,D2,I - New/Old Interface,E,9900 ft,45 °,"Unsupported Slope,Sparse Trees"
+178,"Ypsilon Mountain, Rocky Mountain National Park",Colorado,"
+12:00 AM
+(Estimated)","2 climbers caught, 2 injured, 1 killed",Climber,Foot,Backcountry,2,0,0,0,1,1,SS,Unknown,--,R2,D1.5,I - New/Old Interface,NE,13100 ft,45 °,Gully/Couloir
+179,"Takhinsha Mountains, southwest of Haines",Alaska,"
+12:45 PM
+(Estimated)","4 heliskiers caught in cornice fall, 2 injured, 1 killed",Mechanised Guiding Client,Foot,Backcountry,4,0,0,0,2,1,C,Unknown,--,--,--,--,--,--,--,"Ridgeline,Cornice"
+180,"Nokhu Crags, Never Summer Mountains",Colorado,"
+12:50 PM
+(Estimated)","2 skiers caught, 1 partially buried-critical and injured, 1 buried and killed",Backcountry Tourer,Ski,Backcountry,2,0,1,1,1,1,HS,AS - Skier,u - An unintentional release,R3,D3,G - At Ground/Ice/Firm,E,11400 ft,--,Planar Slope
+181,"Prospectors Mountain, Grand Teton National Park",Wyoming,"
+9:45 AM
+(Estimated)",1 ski mountaineer caught and killed,Backcountry Tourer,Ski,--,1,0,0,0,0,1,L,N -  Natural,--,R1,D1,--,N,9000 ft,45 °,--
+182,"12 Mile Canyon, Manti Skyline",Utah,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,--,--,O - Within Old Snow,NE,10400 ft,38 °,--
+183,"Huntington Ravine, Mount Washington",New Hampshire,"
+Unknown
+",1 climber caught and killed,Climber,Foot,Backcountry,0,0,0,0,0,1,--,--,--,--,--,--,--,--,--,--
+184,"Clothesline Path, Cement Creek, near Silverton",Colorado,"
+1:30 PM
+(Estimated)","3 skiers caught, 1 buried and killed, 1 partially buried, 1 injured",Backcountry Tourer,Ski,Backcountry,3,2,0,1,1,1,SS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,SE,11690 ft,38 °,Convex Slope
+185,"Survey Peak, Grand Teton National Park",Wyoming,"
+5:00 PM
+(Estimated)",1 backcountry tourer caught and killed,Backcountry Tourer,Ski,Backcountry,1,0,0,0,0,1,SS,AS - Skier,--,R2,D2,--,SE,8600 ft,38 °,--
+186,"Clause Creek, southwest of Hoback Canyon",Wyoming,"
+3:00 PM
+(Estimated)",1 backcountry tourer caught and killed,Backcountry Tourer,Ski,Backcountry,1,0,0,0,0,1,SS,AS - Skier,--,R1,D1,O - Within Old Snow,E,9200 ft,45 °,--
+187,"Mill Hollow, West Fork Duchesne",Utah,"
+3:30 PM
+(Estimated)","3 snowmobilers caught on foot, 2 buried and killed",Snowmobiler,Foot,Backcountry,3,0,0,2,0,2,HS,AF - Foot penetration,--,--,--,--,SE,8500 ft,36 °,Cornice
+188,"Raspberry Creek, near Marble",Colorado,"
+2:15 PM
+","1 skier caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R2,D2,G - At Ground/Ice/Firm,NW,10700 ft,43 °,Planar Slope
+189,"Ships Prow Glades, Snowmass Ski Area",Colorado,"
+Unknown
+",1 ski patroller killed,Ski Patroller,Ski,Ski Area - closed area,1,0,0,0,0,1,SS,AS - Skier,u - An unintentional release,R1,D1,O - Within Old Snow,NE,11200 ft,40 °,Unsupported Slope
+190,Donner Ski Ranch,California,"
+9:30 AM
+(Estimated)","1 snowboarder caught, buried, and killed",Inbounds Rider,Snowboard,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+191,Alpine Meadows,California,"
+10:45 AM
+(Estimated)","1 ski patroller caught, buried and killed",Ski Patroller,Ski,,0,,,1,0,1,--,AE - An explosive thrown or placed on or under the snow surface by hand,--,--,--,--,--,--,--,--
+192,"West Buttress, Denali",Alaska,"
+2:00 AM
+(Estimated)","Five climbers caught, 4 killed",Climber,Foot,,1,,,0,0,4,--,--,--,--,--,--,--,11800 ft,--,--
+193,"Ophir Pass, Paradise Basin",Colorado,"
+4:00 PM
+","1 skier caught, buried and killed.",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,WS,AS - Skier,u - An unintentional release,R3,D3.5,O - Within Old Snow,SE,12800 ft,38 °,"Convex Slope,No Trees,Gully/Couloir"
+194,"Takin Ridge, northwest of Haines",Alaska,"
+10:33 AM
+","2 heli-skiers caught, buried, and killed",Mechanised Guide,Ski,Backcountry,2,0,0,2,0,2,SS,AR - Snowboarder,u - An unintentional release,R4,D4,I - New/Old Interface,W,5000 ft,35 °,--
+195,"Ranger Peak, Grand Teton National Park",Wyoming,"
+Unknown
+","2 backcountry skiers caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,2,0,0,2,0,2,SS,AS - Skier,u - An unintentional release,R3,D3.5,O - Within Old Snow,SE,11300 ft,41 °,--
+196,"Beaver Basin, La Sal Mountains",Utah,"
+10:30 AM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R5,D3,G - At Ground/Ice/Firm,SE,10100 ft,10 °,--
+197,"Forestdale Divide, Carson Pass",California,"
+3:30 PM
+(Estimated)","1 Snowmobiler caught, buried and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R4,D3,O - Within Old Snow,NE,8400 ft,40 °,--
+198,"Polaris Point, Ward Canyon",California,"
+1:30 PM
+(Estimated)","1 skier caught, buried and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R4,D3,O - Within Old Snow,NE,7600 ft,39 °,--
+199,"SE of Grouse Mountain, Togwotee Pass",Wyoming,"
+3:30 PM
+","One snowmobiler caught, buried and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2.5,I - New/Old Interface,SE,8680 ft,38 °,Concave Slope
+200,"Skyline Creek, near Marias Pass",Montana,"
+12:00 PM
+(Estimated)","2 snowbikers caught, 1 partially buried, 1 partly buried-critical and killed",Other,Snowmobile,Backcountry,2,1,1,0,0,1,HS,AV - Vehicle (specify vehicle type in comments),u - An unintentional release,R4,D2,O - Within Old Snow,--,5900 ft,--,--
+201,"Dutch Draw, Park City ridgeline",Utah,"
+3:00 PM
+","1 snowboarder caught, buried, and killed",Sidecountry Rider,Snowboard,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,--,--,O - Within Old Snow,E,9800 ft,40 °,--
+202,"Daisy Pass Road, north of Cooke City",Montana,"
+Unknown
+","4 snowmobilers caught, 3 partialy buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,4,1,1,1,0,1,SS,Unknown,--,R2,D2,--,SW,9500 ft,45 °,--
+203,"Lost Johnny drainage, east of Kalispell",Montana,"
+4:00 PM
+(Estimated)","2 snowmobilers caught, 1 partly buried, 1 buried and killed",Snowmobiler,Snowmobile,Backcountry,2,1,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R4,D2,O - Within Old Snow,SE,5300 ft,38 °,--
+204,"Tunnel Creek, near Stevens Pass",Washington,"
+12:00 PM
+","5 skiers caught, 1 partly buried, 3 buried and killed",Sidecountry Rider,Ski,Accessed BC from Ski Area,5,1,3,0,0,3,SS,AS - Skier,--,R2,D3,O - Within Old Snow,SW,5800 ft,42 °,--
+205,WAC Bluffs near Aplental Ski Area,Washington,"
+11:45 AM
+(Estimated)","2 snowboarders caught, 1 carried over cliffs and killed",Sidecountry Rider,Snowboard,Accessed BC from Ski Area,2,0,0,0,0,1,SS,AR - Snowboarder,--,R2,D2,O - Within Old Snow,E,3800 ft,45 °,--
+206,"Gibbs Creek, near Wolf Creek Pass",Colorado,"
+11:45 AM
+(Estimated)","3 skiers caught, 1 injured, 1 partially buried, 1 buried and killed",Backcountry Tourer,Ski,Backcountry,3,1,0,1,1,1,SS,AS - Skier,u - An unintentional release,R4,D2.5,O - Within Old Snow,W,11500 ft,40 °,Sparse Trees
+207,"Contention Fingers, Bear Creek, Telluride",Colorado,"
+12:00 PM
+(Estimated)","1 snowboarder caught, buried and killed",Sidecountry Rider,Snowboard,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,R4,D2,G - At Ground/Ice/Firm,E,10300 ft,38 °,Convex Slope
+208,Lost Creek Reservior,Utah,,"2 snowmobilers caught, 1 buried and killed",Snowmobiler,Snowmobile,--,2,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,--,--,--,N,9800 ft,36 °,--
+209,"Twin Lakes, Swan Range",Montana,"
+Unknown
+",1 backcountry skier caught and killed,Backcountry Tourer,Ski,,0,,,0,0,1,--,--,--,--,--,--,NE,--,--,--
+210,"Little Giant, West Kessler, Big Cottonwood Canyon",Utah,"
+11:00 AM
+(Estimated)","1 snowboarder caught, buried, and killed",Backcountry Tourer,Snowboard,,0,,,1,0,1,--,--,--,--,--,--,NW,10200 ft,--,--
+211,"Prima Cornice, Vail",Colorado,"
+1:10 PM
+(Estimated)","3 skiers caught, 1 injured, and 1 partially buried-critical and killed.",Inbounds Rider,Ski,--,3,1,1,0,1,1,SS,AS - Skier,u - An unintentional release,R3,D2,O - Within Old Snow,NE,10800 ft,46 °,Planar Slope
+212,"Trestle Trees, Winter Park",Colorado,"
+Unknown
+","1 inbounds skier caught, buried, and killed",Inbounds Rider,Ski,Ski Area - open area,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,N,10400 ft,45 °,--
+213,"Chedsey Creek, North Park",Colorado,"
+11:30 PM
+(Estimated)","2 people on foot caught, 1 partially buried, 1 fully buried and killed",Snowmobiler,Foot,Backcountry,2,1,0,1,0,1,SS,AF - Foot penetration,u - An unintentional release,R3,D2,O - Within Old Snow,N,9478 ft,35 °,Sparse Trees
+214,Burnt Mountain Near Snowmass Village,Colorado,"
+1:30 PM
+(Estimated)","One skier caught, buried and killed.",Sidecountry Rider,Ski,Accessed BC from Ski Area,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R2,D1.5,G - At Ground/Ice/Firm,NE,10490 ft,50 °,Planar Slope
+215,"Phillipsburg, Flint Range, Red Lion",Montana,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,,0,,,1,0,1,--,--,--,--,--,--,--,--,--,--
+216,"Henderson Mountain, near Cooke City",Montana,"
+Unknown
+","1 snowmobiler, caught, partly buried-critical, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,1,0,0,1,SS,AM - Snowmobile,--,R4,D3,--,NE,10200 ft,40 °,--
+217,"Hayden Creek, south of Cooke City",Wyoming,"
+Unknown
+","1 skier caught, buried and killed.",Backcountry Tourer,Ski,--,1,0,0,1,0,1,SS,AS - Skier,--,R3,D2.5,--,N,9275 ft,35 °,--
+218,"Gad Valley, Little Cottonwood Canyon",Utah,"
+2:30 PM
+(Estimated)","1 snowboarder caught, partially buried, and killed",Backcountry Tourer,Snowboard,Ski Area - closed area,1,1,0,0,0,1,SS,AR - Snowboarder,u - An unintentional release,--,--,O - Within Old Snow,NW,10300 ft,40 °,--
+219,"Mount Frances, Denali National Park",Alaska,,2 climbers caught and killed (Preliminary),Climber,Foot,Backcountry,0,0,0,0,0,2,--,--,--,--,--,--,--,--,--,--
+220,Torreys Peak,Colorado,"
+1:05 PM
+",1 snowboarder caught and killed,Backcountry Tourer,Snowboard,Backcountry,1,0,0,0,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,I - New/Old Interface,SE,13800 ft,38 °,Gully/Couloir
+221,Ruth Gorge,Alaska,"
+1:00 AM
+(Estimated)","Icefall avalanche hits camp, 1 climber killed",Climber,Not Applicable,Backcountry,0,0,0,0,0,1,I,N -  Natural,--,--,--,--,--,--,--,--
+222,"Split Mountain, south of Bishop",California,,2 skiers caught and killed,Backcountry Tourer,Ski,Backcountry,2,2,0,0,0,2,--,--,--,--,--,--,--,--,--,Gully/Couloir
+223,"Bird Ridge, Chugach State Park",Alaska,"
+Unknown
+","Solo snowplayer caught, buried, and killed",Snowplayer,"Sled, tube, or saucer",Backcountry,1,0,0,1,0,1,--,--,--,--,--,--,--,1000 ft,--,--
+224,"Garnet Canyon Meadows, Grand Teton National Park",Wyoming,,"2 backcountry tourers caught, buried, and killed while camped",Other,Not Applicable,Backcountry,2,0,0,2,0,2,--,--,--,--,--,--,--,--,--,--
+225,"Highlands Ridge, Desolation Row, Aspen zone",Colorado,"
+1:15 PM
+",1 skier caught and killed,Sidecountry Rider,Ski,Sidecountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R1,D2,O - Within Old Snow,NW,10900 ft,--,"Sparse Trees,Gully/Couloir"
+226,"Back country to the west of Stevens Pass, WA. Backside of Cowboy Mountain",Washington,"
+4:30 PM
+(Estimated)","1 snowboarder caught, partly buried, and killed",Sidecountry Rider,Snowboard,--,1,1,0,0,0,1,--,--,--,--,--,--,--,3800 ft,--,Unknown
+227,Horsehoe Mountain,Utah,"
+11:30 AM
+(Estimated)","3 skiers caught, 1 partly buried, 1 partly buried-critical and killed.",Backcountry Tourer,Ski,Backcountry,3,1,1,0,0,1,HS,AS - Skier,u - An unintentional release,--,--,O - Within Old Snow,NE,10900 ft,--,--
+228,"Hatch Peak, Hatcher Pass",Alaska,"
+5:00 PM
+(Estimated)","2 skiers caught, 1 injured and 1 killed",Backcountry Tourer,Ski,Backcountry,2,0,0,1,1,1,HS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,SW,4500 ft,38 °,"Ridgeline,Unsupported Slope,Gully/Couloir"
+229,Mount Cashmere,Washington,"
+Unknown
+",1 skier caught and killed,Backcountry Tourer,Ski,--,0,0,0,0,0,1,--,--,--,--,--,--,SW,5500 ft,--,--
+230,"East Snowmass Creek Valley, Sand's Chute",Colorado,"
+2:15 PM
+(Estimated)","1 Skier caught, fully buried, and killed",Sidecountry Rider,Ski,Sidecountry,1,0,0,1,0,1,HS,AS - Skier,u - An unintentional release,R1,D2,O - Within Old Snow,NW,11200 ft,--,Gully/Couloir
+231,Sand Peak-Flat Tops,Colorado,"
+1:00 PM
+(Estimated)","1 snowmobiler caught, buried and killed",Snowmobiler,Snowmobile,Backcountry,2,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R3,D2,O - Within Old Snow,N,10700 ft,35 °,Concave Slope
+232,"Truman Gulch, Bridger Range",Montana,"
+1:00 PM
+","1 snowboarder caught, buried, killed",Backcountry Tourer,Snowboard,Backcountry,1,0,0,1,0,1,HS,AR - Snowboarder,u - An unintentional release,R4,D2,O - Within Old Snow,--,8380 ft,40 °,Gully/Couloir
+233,"Red Mountain,  Snoqualmie Pass  Washington",Washington,"
+Unknown
+","1 skier  on foot caught, buried and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,C,AF - Foot penetration,u - An unintentional release,R1,D2,Unknown,NE,5890 ft,--,"Ridgeline,Cornice,Below Cornice"
+234,"""High Trail Cliffs,"" northeast of Berthoud Pass",Colorado,"
+1:30 PM
+(Estimated)","1 snowboarder (and dog) caught, buried, and killed",Backcountry Tourer,Snowboard,Backcountry,1,0,0,1,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,I - New/Old Interface,NW,11300 ft,--,--
+235,"Near Hungry Horse Reservoir, east of Kalispell",Montana,"
+Unknown
+","3 snowmobilers caught, 1 killed",Snowmobiler,Snowmobile,Backcountry,3,0,0,3,0,1,--,--,--,--,--,--,--,--,--,--
+236,20 miles northeast of Calder,Idaho,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,--,--,--,--,--,--,--,--,--,--
+237,Dry Gulch-East of Eisenhower Tunnel,Colorado,"
+11:30 AM
+(Estimated)","2 skiers caught, 1 partially buried, 1 buried and killed",Backcountry Tourer,Ski,Backcountry,2,1,0,1,1,1,HS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,N,11600 ft,35 °,Gully/Couloir
+238,"Morning Star Peak, north central Washington Cascades",Washington,,"1 climber caught, partially buried, and killed",Climber,Foot,Backcountry,1,1,0,0,0,1,--,--,--,--,--,--,NE,3500 ft,50 °,Gully/Couloir
+239,"Cherry Hill, western Uinta Mountains",Utah,"
+Unknown
+",1 snowmobiler caught and killed,Snowmobiler,Snowmobile,Backcountry,0,0,0,0,0,1,--,--,--,--,--,--,--,--,--,--
+240,"Wolf Creek Pass Ski Area, Glory Hole Point",Colorado,"
+7:30 AM
+(Estimated)","Ski patroller caught, buried and killed",Ski Patroller,Ski,Ski Area - closed area,1,0,0,1,0,1,SS,AU - Unknown artificial trigger,--,R3,D2,O - Within Old Snow,NE,11676 ft,45 °,Planar Slope
+241,"Lolo Peak, Montana",Montana,"
+3:00 PM
+(Estimated)","1 skier caught, carried into rocks, killed",Backcountry Tourer,--,Backcountry,1,0,0,0,0,1,WL,AS - Skier,Unknown,R1,D1,O - Within Old Snow,N,8489 ft,50 °,Gully/Couloir
+242,"Ingraham Glacier, Mount Rainier",Washington,"
+Unknown
+",Preliminary report,Climber,Foot,Backcountry,1,0,0,1,0,1,--,--,--,--,--,--,--,--,--,--
+243,"Werewolf and London Tower, Ruth Gorge",Alaska,"
+Unknown
+","2 climbers caught on descent, partially buried, and killed",Climber,Foot,Backcountry,0,0,0,0,0,2,--,--,--,--,--,--,--,--,--,Gully/Couloir
+244,"McAtee Basin, Southern Madison Range",Montana,"
+2:30 PM
+","2 snowmobilers caught, 1 partially buried uninjured, 1 fully buried and killed",Snowmobiler,--,Backcountry,2,1,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D3,I - New/Old Interface,N,9300 ft,38 °,Convex Slope
+245,Francis Peak northwest of Farmington,Utah,"
+2:00 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,C,AM - Snowmobile,u - An unintentional release,--,--,--,E,9100 ft,--,Ridgeline
+246,Indian Creek drainage northwest of Alpine,Wyoming,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,--,--,--,--,--,--,N,--,--,--
+247,"Peak 6996 near Marias Pass, Glacier NP",Montana,"
+1:00 PM
+(Estimated)",1 snowboarder caught and killed,Backcountry Tourer,--,Backcountry,1,0,0,0,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,O - Within Old Snow,NE,6860 ft,33 °,--
+248,"Near Baldy Peak, southeast of Ridgway",Colorado,,"1 ice climber, approaching on skis, caught, buried, killed",Backcountry Tourer,--,Backcountry,1,0,0,1,0,1,WS,N -  Natural,--,R3,D3,O - Within Old Snow,N,9302 ft,36 °,"Unsupported Slope,Gully/Couloir"
+249,"Loyds Lake, McCall",Idaho,"
+1:00 PM
+(Estimated)","4 snowmobilers caught, 2 buried and killed, 1 partially buried, 1 rode off",Snowmobiler,Snowmobile,Backcountry,2,0,0,2,0,2,WS,AM - Snowmobile,u - An unintentional release,R4,D2,O - Within Old Snow,N,7250 ft,35 °,Convex Slope
+250,Near Missoula Lake,Montana,"
+6:00 PM
+(Estimated)","1 snowmobiler caught, buried, killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,WS,AM - Snowmobile,u - An unintentional release,R3,D3,O - Within Old Snow,NW,6200 ft,35 °,--
+251,Southwest of Creede,Colorado,"
+Unknown
+","2 people caught, buried and killed in a roof avalanche",Resident,--,Town/Settlement,2,0,0,2,0,2,R,Unknown,Unknown,R5,D2,--,NE,9000 ft,27 °,Roof
+252,"North of Schweitzer Ski Area, Idaho Panhandle",Idaho,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,--,AM - Snowmobile,u - An unintentional release,R3,D3,O - Within Old Snow,--,--,35 °,--
+253,Mt Antora,Colorado,"
+Unknown
+","1 snowmobiler, caught and killed",Snowmobiler,--,Backcountry,1,0,0,0,0,1,SS,AM - Snowmobile,--,R2,D2,O - Within Old Snow,W,12000 ft,--,Sparse Trees
+254,"Steep Gully #1, backcountry near Arapahoe Basin Ski Area",Colorado,"
+3:00 PM
+(Estimated)",1 snowboarder partially buried critical and killed,Sidecountry Rider,--,Sidecountry,1,0,1,0,0,1,SS,AR - Snowboarder,u - An unintentional release,R2,D2,G - At Ground/Ice/Firm,NW,11720 ft,39 °,Gully/Couloir
+255,Ashcroft- Near Lindley Hut,Colorado,"
+4:00 PM
+(Estimated)","1 skier caught, buried, and killed",Backcountry Tourer,--,Backcountry,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,NW,10600 ft,37 °,Sparse Trees
+256,"South Teton, Grand Teton National Park",Wyoming,"
+11:30 AM
+(Estimated)","1 skier triggered avalanche, swept over cliffs, killed",Backcountry Tourer,--,Backcountry,1,0,0,0,0,1,--,AS - Skier,--,--,--,--,SE,12200 ft,--,Unsupported Slope
+257,"South Fork Eagle River, Alaska Three Bowls",Alaska,"
+4:10 PM
+","1 skier caught, buried, and killed",Backcountry Tourer,Ski,Backcountry,1,0,0,1,0,1,HS,AS - Skier,u - An unintentional release,R3,D3,G - At Ground/Ice/Firm,NW,3850 ft,35 °,Concave Slope
+258,"Grandview, Placer River Drainage, Chugach NF",Alaska,"
+11:00 AM
+(Estimated)","3 snowmobilers caught, 2 buried and killed",Snowmobiler,--,Backcountry,3,1,0,0,0,2,SS,AM - Snowmobile,u - An unintentional release,R3,D3,I - New/Old Interface,SE,1700 ft,39 °,Concave Slope
+259,"Near Ridgway Hut, Sneffels Range",Colorado,"
+3:00 PM
+","2 skiers caught, 1 fully buried, 1 killed",Backcountry Tourer,--,Backcountry,2,0,0,1,1,1,SS,AS - Skier,u - An unintentional release,R3,D2,G - At Ground/Ice/Firm,E,11650 ft,42 °,"Convex Slope,Unsupported Slope,Dense Trees"
+260,"North Fork of Murphy Creek, Wyoming Range",Wyoming,"
+Unknown
+","1 snowmobiler caught, buried, and killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,--,AM - Snowmobile,--,--,--,--,N,9000 ft,--,--
+261,Garns Mtn in the Big Hole Range west of Driggs,Idaho,"
+1:00 PM
+(Estimated)","1 snowmobiler caught, buried, and killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,--,--,--,--,--,--,--,--,--,--
+262,"Grandview Peak, Sessions Mountains, east of Bountiful",Utah,"
+2:00 PM
+(Estimated)","1 snowmobiler caught, buried, rescued, died in hospital",--,--,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,--,--,O - Within Old Snow,N,9000 ft,38 °,--
+263,"Near Boardman Pass, Soldier Mountains",Idaho,"
+3:00 PM
+(Estimated)","1 snowmobiler caught, buried, killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R2,D3,O - Within Old Snow,W,9300 ft,37 °,"Planar Slope,No Trees"
+264,"Meadows, Silver Fork, UT",Utah,"
+Unknown
+","1 skier caught, buried and killed",Backcountry Tourer,--,Backcountry,1,0,0,1,0,1,HS,AS - Skier,u - An unintentional release,R3,D3,O - Within Old Snow,E,8600 ft,35 °,Gully/Couloir
+265,"Hells Canyon, near Snowbasin Ski Area",Utah,"
+1:00 PM
+(Estimated)","1 sidecountry skier caught, killed",Sidecountry Rider,--,Sidecountry,1,0,1,0,0,1,HS,AS - Skier,u - An unintentional release,--,--,O - Within Old Snow,NE,8600 ft,--,Ridgeline
+266,"Sun Valley Ski Resort, in bounds but off trail",Idaho,"
+2:00 PM
+(Estimated)","1 skier caught, buried and killed",Inbounds Rider,Ski,Ski Area - open area,1,0,0,1,0,1,SS,AS - Skier,u - An unintentional release,R2,D2,O - Within Old Snow,NE,7300 ft,38 °,Planar Slope
+267,"Cheyenne Bowl, Jackson Hole Mountain Resort",Wyoming,"
+8:26 AM
+","Ski patroller caught and fully buried during control work, died of injuries",Ski Patroller,--,Ski Area - closed area,2,0,0,1,0,1,HS,AE - An explosive thrown or placed on or under the snow surface by hand,--,R3,D3,O - Within Old Snow,NE,9350 ft,34 °,--
+268,Battle Mountain - outside Vail Mountain ski area,Colorado,,"1 snowboader caught, partially buried critical and killed",Sidecountry Rider,--,Sidecountry,1,0,1,0,0,1,SS,AR - Snowboarder,Unknown,R3,D2,O - Within Old Snow,NW,10900 ft,37 °,"Planar Slope,Dense Trees"
+269,"Scotch Bonnet Mountain, near Lulu Pass",Montana,"
+Unknown
+","1 Snowmobiler caught, buried, and killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,HS,AM - Snowmobile,u - An unintentional release,R3,D2,O - Within Old Snow,S,10054 ft,35 °,--
+270,Near Paulina Peak,Oregon,"
+Unknown
+","1 Snowmobiler caught, buried, and killed",Snowmobiler,--,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R4,D2,O - Within Old Snow,N,7350 ft,34 °,--
+271,"Rock Lake, Cascade, Idaho",Idaho,"
+1:30 PM
+(Estimated)","2 snowmobilers caught, buried, 1 rescued, 1 killed",Snowmobiler,Snowmobile,Backcountry,1,0,0,1,0,1,SS,AM - Snowmobile,u - An unintentional release,R3,D2,G - At Ground/Ice/Firm,--,7832 ft,38 °,"Concave Slope,Ridgeline,Cornice,No Trees"
+272,"Hyalite Drainage, northern Gallatins, Bozeman",Montana,"
+9:30 AM
+(Estimated)",Hyalite Avalanche Fatality,Climber,Foot,Backcountry,1,0,1,0,0,1,--,AO - Unclassified artificial trigger (specify in comments),u - An unintentional release,R3,D2,O - Within Old Snow,W,9500 ft,38 °,Gully/Couloir
